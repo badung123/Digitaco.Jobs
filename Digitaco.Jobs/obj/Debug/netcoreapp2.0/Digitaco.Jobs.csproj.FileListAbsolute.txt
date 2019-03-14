@@ -1,0 +1,11 @@
+C:\Users\GEM\source\repos\Digitaco.Jobs\Digitaco.Jobs\bin\Debug\netcoreapp2.0\Digitaco.Jobs.deps.json
+C:\Users\GEM\source\repos\Digitaco.Jobs\Digitaco.Jobs\bin\Debug\netcoreapp2.0\Digitaco.Jobs.runtimeconfig.json
+C:\Users\GEM\source\repos\Digitaco.Jobs\Digitaco.Jobs\bin\Debug\netcoreapp2.0\Digitaco.Jobs.runtimeconfig.dev.json
+C:\Users\GEM\source\repos\Digitaco.Jobs\Digitaco.Jobs\bin\Debug\netcoreapp2.0\Digitaco.Jobs.dll
+C:\Users\GEM\source\repos\Digitaco.Jobs\Digitaco.Jobs\obj\Debug\netcoreapp2.0\Digitaco.Jobs.csprojAssemblyReference.cache
+C:\Users\GEM\source\repos\Digitaco.Jobs\Digitaco.Jobs\obj\Debug\netcoreapp2.0\Digitaco.Jobs.csproj.CoreCompileInputs.cache
+C:\Users\GEM\source\repos\Digitaco.Jobs\Digitaco.Jobs\obj\Debug\netcoreapp2.0\Digitaco.Jobs.AssemblyInfoInputs.cache
+C:\Users\GEM\source\repos\Digitaco.Jobs\Digitaco.Jobs\obj\Debug\netcoreapp2.0\Digitaco.Jobs.AssemblyInfo.cs
+C:\Users\GEM\source\repos\Digitaco.Jobs\Digitaco.Jobs\bin\Debug\netcoreapp2.0\Digitaco.Jobs.pdb
+C:\Users\GEM\source\repos\Digitaco.Jobs\Digitaco.Jobs\obj\Debug\netcoreapp2.0\Digitaco.Jobs.dll
+C:\Users\GEM\source\repos\Digitaco.Jobs\Digitaco.Jobs\obj\Debug\netcoreapp2.0\Digitaco.Jobs.pdb
